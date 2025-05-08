@@ -1,0 +1,8 @@
+{
+    "token": "YOUR BOT TOKEN",
+    "roleId": "THE ROLE ID THE BOT SHOULD AUTO ASSIGN TO NEW USERS",
+    "openaiApiKey": "ONLY NEEDED IF YOU USE CHATGPT, OTHERWISE DELETE THIS WHOLE LINE",
+    "bad_words": ["", "yaddayadda", "xyz"],
+    "admins": ["INSERT YOUR OWN ID"]
+  }
+  
